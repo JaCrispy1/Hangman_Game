@@ -1,7 +1,5 @@
 # Coding Challenge 3, hangman.py
-# Name:Gaurav Thapaliya
-# Student No:2059614
-# Hangman Game
+
 
 import random
 import string
